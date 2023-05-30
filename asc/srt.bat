@@ -76,7 +76,7 @@ if %smode%==2 (
 
     rem Can not start drictly ...
 
-    call ..\meko\mycall mystart !value!
+    call ..\meko\mycall /start !value!
 
 )
 
