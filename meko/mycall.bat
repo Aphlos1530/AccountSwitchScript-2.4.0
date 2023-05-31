@@ -56,7 +56,7 @@ if %2/==/start/ (
 
     start %destFile% %3 %4 %5 %6
 
-) else(
+) else (
 
     call %destFile% %2 %3 %4 %5
 
